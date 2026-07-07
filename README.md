@@ -1,85 +1,97 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Raghavendra%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Building%20Production-Grade%20ML%20Systems&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:4C1D95,100:7C3AED&height=220&section=header&text=Raghavendra%20Pandey&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+AI%2FML+Engineer;Computer+Vision+%7C+LLM+Systems+%7C+Product+Engineering;Building+Real-Time+Intelligent+Applications;Open+to+AI%2FML+%26+Full+Stack+Roles" alt="Typing SVG" />
-
-<br/>
-
-[![Final Year CS](https://img.shields.io/badge/Final%20Year-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Specialization](https://img.shields.io/badge/Specialization-AI%2FML-4C1D95?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Based%20in-Lucknow%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Products;Computer+Vision+%2B+Full+Stack+Engineer;React+Native+%C2%B7+Node.js+%C2%B7+TensorFlow+%C2%B7+OpenCV;Turning+Models+Into+Shipped+Products" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+![Academic](https://img.shields.io/badge/B.Tech-AI%2FML%20%26%20IoT-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/GLA%20University-2023--2027-4C1D95?style=for-the-badge&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendrapandey909@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b652-4d55da7b56d5.gif">
+<img align="right" width="35%" src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/blob.svg" />
 
-I'm a final-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**, based in **Lucknow, India**. I approach engineering as a full-stack discipline — from designing real-time computer vision pipelines to shipping production-ready web and mobile applications end to end.
+```yaml
+engineer:
+  name: "Raghavendra Pandey"
+  role: "AI/ML Engineer · Full Stack Developer"
+  focus: "Building production-grade AI systems with real-world usability"
+  philosophy: "Ship it end-to-end — model, backend, frontend, and UX all owned by one engineer"
+```
 
-- 🔭 I independently design, build, and deploy full-stack AI products from concept to production
-- 🎯 My focus areas: **Computer Vision**, **LLM-integrated applications**, and **scalable full-stack architecture**
-- ⚙️ I care about system reliability, clean architecture, and product-level thinking — not just model accuracy
-- 🌱 Continuously deepening expertise in distributed systems, real-time inference pipelines, and applied ML engineering
-- 🤝 I collaborate best in environments that value ownership, rapid iteration, and engineering rigor
+I'm a final-year **Computer Engineering** student specializing in **AI/ML & IoT**, focused on the intersection of applied machine learning and production software engineering. Rather than treating ML as notebooks and full-stack as separate disciplines, I build **complete, deployed products** — computer vision pipelines wired into React Native apps, OCR systems backed by real REST APIs and PostgreSQL, all engineered solo from data pipeline to UI.
 
-**🎯 Open To:**
+My approach favors **product engineering over pure research** — every model I build is judged by whether it ships inside something a real user can open on their phone.
 
-`Full Stack AI/ML Developer Roles` · `Remote Opportunities` · `AI Product Engineering` · `Backend & Systems Roles` · `Internships & Full-Time (India / Remote)`
+```text
+🎯 Open To:  AI/ML Internships · Full Stack Developer Roles · Computer Vision Engineering · Remote-first Teams
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![ReactNative](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react) ![ReactNative](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
 **Backend & Databases**
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-**AI / ML & Computer Vision**
+**AI / ML**
 
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://skillicons.dev/icons?i=opencv)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Python](https://skillicons.dev/icons?i=python)
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![Selenium](https://skillicons.dev/icons?i=selenium)
+
+</div>
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Computer Vision** | ⭐⭐⭐⭐⭐ | Real-time pose estimation & tracking with MediaPipe, model optimization with OpenVINO |
-| **LLM Integration** | ⭐⭐⭐⭐ | Prompt engineering, LLM API orchestration, OCR-to-LLM structured pipelines |
-| **Applied ML Engineering** | ⭐⭐⭐⭐ | Deploying inference pipelines into production full-stack applications |
-| **Full Stack AI Products** | ⭐⭐⭐⭐⭐ | End-to-end ownership from model integration to deployed UI |
-| **Data Extraction (OCR)** | ⭐⭐⭐⭐ | Document/bill parsing pipelines with structured data output |
+| **Computer Vision** | 🟣🟣🟣🟣⚪ | Pose estimation, body-landmark detection, real-time posture analysis using OpenVINO & MediaPipe |
+| **Deep Learning** | 🟣🟣🟣🟣⚪ | TensorFlow-based model integration for garment overlay & rehab-exercise classification |
+| **OCR / Document Intelligence** | 🟣🟣🟣🟣🟣 | Google Vision API pipelines extracting structured data from unstructured bill images (~90% accuracy) |
+| **Data Preprocessing & Pipelines** | 🟣🟣🟣🟣⚪ | scikit-learn based cleaning, feature engineering, and pipeline design |
+| **Applied ML Product Engineering** | 🟣🟣🟣🟣🟣 | End-to-end delivery of ML features inside deployed full-stack products |
 
 </div>
 
@@ -88,40 +100,59 @@ I'm a final-year Computer Science student specializing in **Artificial Intellige
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🏋️ Rehab AI — Real-Time Computer Vision Posture Coaching Platform</b></summary>
+<summary><b>🍽️ Budget Bit — Dish-Level Food Intelligence Platform</b></summary>
 <br/>
 
-Rehab AI is a deployed, real-time computer vision system that analyzes human posture and movement to guide users through physiotherapy and rehabilitation exercises. It uses pose-estimation models to track joint angles and movement quality frame-by-frame, delivering live corrective feedback without any wearable hardware.
+A mobile-first platform that turns raw restaurant bill photos into structured, dish-level spending and rating intelligence — removing manual data entry entirely via an OCR pipeline.
 
-| Aspect | Details |
+| Category | Detail |
 |---|---|
-| **Stack** | React.js, Node.js, Python, MediaPipe, OpenVINO |
-| **Scale** | Real-time frame-by-frame inference on live video streams |
-| **Performance** | Low-latency pose tracking optimized for consumer-grade hardware |
-| **Security** | Client-side processing to minimize sensitive video data exposure |
-| **Impact** | Enables at-home guided rehabilitation without clinical supervision |
-| **Repository** | [View Repository](https://github.com/your-username/rehab-ai) |
+| **Stack** | React Native · Node.js · PostgreSQL · Google Vision API (OCR) · Postman · Selenium |
+| **Scale** | 8+ REST API endpoints, 15+ automated end-to-end user flows |
+| **Performance** | ~90% OCR extraction accuracy on real-world bill images |
+| **Security** | Input-validated REST endpoints, structured request/response contracts tested via Postman |
+| **Impact** | Eliminates manual bill entry; enables per-dish rating across taste, value, and portion |
+| **Repository** | [budgetbit.vercel.app](https://budgetbit.vercel.app/) |
 
-**Engineering Notes:** The core challenge was achieving real-time inference performance without dedicated GPU infrastructure. This was solved by optimizing the pose-estimation model via OpenVINO for CPU-bound inference, paired with a lightweight React frontend for live feedback rendering.
+Engineered the OCR ingestion pipeline to parse dish names and prices directly from bill images, backed by a normalized PostgreSQL schema and validated through Selenium-driven regression suites covering the full user journey from bill upload to dish rating.
 
 </details>
 
 <details>
-<summary><b>💰 Budget Bit — Mobile-First OCR Bill Parsing Platform</b></summary>
+<summary><b>👗 AI Virtual Dressing Room — Real-Time Virtual Try-On</b></summary>
 <br/>
 
-Budget Bit is a deployed mobile-first application that uses OCR to automatically extract, parse, and categorize expenses from physical bills and receipts, turning unstructured paper data into structured financial insights.
+A real-time virtual try-on system combining pose estimation and deep learning to overlay garments onto a live body feed with accurate landmark detection.
 
-| Aspect | Details |
+| Category | Detail |
 |---|---|
-| **Stack** | React Native, Node.js, PostgreSQL, OCR pipeline |
-| **Scale** | Multi-user expense tracking with persistent structured storage |
-| **Performance** | Optimized OCR-to-structured-data pipeline for varied receipt formats |
-| **Security** | PostgreSQL-backed persistence with structured access control |
-| **Impact** | Removes manual data entry from personal expense tracking |
-| **Repository** | [View Repository](https://github.com/your-username/budget-bit) |
+| **Stack** | Python · OpenCV · TensorFlow · Deep Learning |
+| **Scale** | Support across 5+ garment types |
+| **Performance** | Accurate real-time body-landmark detection under varied poses |
+| **Security** | Local inference pipeline; no external image persistence |
+| **Impact** | Reduces manual garment-fitting errors by design |
+| **Repository** | [ai-virtual-dressing-room.vercel.app](https://ai-virtual-dressing-room.vercel.app/) |
 
-**Engineering Notes:** The primary engineering challenge was building a robust OCR-to-structured-data pipeline resilient to inconsistent receipt formats and print quality, backed by a normalized PostgreSQL schema for long-term expense analytics.
+Built and engineered solo end-to-end: pose estimation model integration, landmark-to-garment coordinate mapping, and real-time overlay rendering.
+
+</details>
+
+<details>
+<summary><b>🏋️ Rehab AI — AI-Powered Home Physical Therapy Coaching</b></summary>
+<br/>
+
+A computer-vision-driven physical therapy assistant that analyzes rehab exercises in real time, flags incorrect posture, and delivers corrective feedback to support safe at-home recovery.
+
+| Category | Detail |
+|---|---|
+| **Stack** | React.js · TypeScript · HTML5 · CSS3 · OpenVINO · Python |
+| **Scale** | Real-time posture analysis across multiple rehab exercise types |
+| **Performance** | Low-latency inference suitable for live feedback loops |
+| **Security** | Client-side processing minimizing sensitive health-data transfer |
+| **Impact** | Enables safer, unsupervised home rehabilitation |
+| **Repository** | [rehabai-eta.vercel.app](https://rehabai-eta.vercel.app/) |
+
+Designed the full computer vision feedback loop — posture detection, deviation scoring, and real-time correction prompts — as a solo-engineered, deployed product.
 
 </details>
 
@@ -129,18 +160,18 @@ Budget Bit is a deployed mobile-first application that uses OCR to automatically
 
 ## 💼 Experience
 
-### Full Stack AI Developer
-**Independent / Self-Employed** · *Ongoing*
+**Independent Full Stack AI Developer**
+*Self-Employed — Remote*
+`2025 — Present`
 
-Designing, building, and deploying full-stack AI-powered products independently — owning the complete lifecycle from architecture to deployment.
+Design and ship complete AI-integrated products independently, owning everything from model selection to deployed UI, across web and mobile platforms.
 
-**Scope of Work:**
-- Architected and deployed real-time computer vision applications end-to-end
-- Built mobile-first full-stack platforms integrating OCR and structured data pipelines
-- Designed scalable backend systems using Node.js and PostgreSQL
-- Integrated LLM APIs into product workflows for intelligent automation
+- Architected and deployed 3 end-to-end AI/full-stack products spanning computer vision, OCR, and mobile-first delivery
+- Designed REST API layers (Node.js/Express) backed by PostgreSQL and MongoDB for production-grade data flows
+- Integrated third-party ML APIs (Google Vision) and custom CV pipelines (OpenCV, OpenVINO, TensorFlow) into live applications
+- Built automated regression coverage (Selenium) across critical user flows to ensure release stability
 
-`React.js` `React Native` `Node.js` `PostgreSQL` `Python` `Computer Vision` `LLM APIs`
+`React.js` `React Native` `Node.js` `TypeScript` `PostgreSQL` `TensorFlow` `OpenCV` `Agile`
 
 ---
 
@@ -150,9 +181,10 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 | Recognition | Details |
 |---|---|
-| **Independent Product Deployment** | Shipped 2+ full-stack AI products (Rehab AI, Budget Bit) without a team |
-| **Applied CV Engineering** | Built real-time pose-estimation pipeline optimized for CPU inference |
-| **Full Stack Ownership** | End-to-end delivery across frontend, backend, and ML integration |
+| 🎓 Azure Fundamentals (AZ-900) | Certified by Microsoft |
+| 💻 Full Stack Web Development | Certified by Apna College |
+| 📊 Data Structures & Algorithms | Certified by Apna College |
+| 🚀 3 Deployed Full-Stack AI Products | Delivered independently, live on Vercel |
 
 </div>
 
@@ -160,21 +192,14 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 ## 📜 Certifications
 
-**AWS**
+**Microsoft**
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certification-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Oracle**
+**Apna College**
 
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certification-4C1D95?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certification-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Certified](https://img.shields.io/badge/Cisco-Certification-A78BFA?style=for-the-badge&logo=cisco&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Web%20Development-6D28D9?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
@@ -182,10 +207,10 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-A78BFA?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/YOUR_LEETCODE_HANDLE)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_GFG_HANDLE)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HACKERRANK_HANDLE)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_CODECHEF_HANDLE)
 
 </div>
 
@@ -195,10 +220,12 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF&ring_color=6D28D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=E9D5FF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="60%" />
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" />
 
 </div>
 
@@ -208,7 +235,7 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -218,7 +245,7 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff" width="100%" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF" />
 
 </div>
 
@@ -228,44 +255,40 @@ Designing, building, and deploying full-stack AI-powered products independently 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🔭 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Distributed Systems
-  - Computer Networks (Deep Fundamentals)
-  - Scalable ML Inference Architectures
-
-Building:
-  - Production-grade AI-powered full stack applications
-  - Real-time computer vision pipelines
-
-Exploring:
-  - LLM-native application architecture
-  - Edge inference optimization
-
-Open To:
-  - Full Stack AI/ML Developer Roles
-  - Remote Opportunities (India-based & Global)
-  - AI Product Engineering Positions
+current_focus:
+  learning:
+    - Computer Networks (OA / interview prep)
+    - Advanced Data Structures & Algorithms
+  building:
+    - Deployed AI-integrated full-stack products
+  exploring:
+    - Production-grade LLM API integrations
+    - Scaling computer vision inference for mobile
+  open_to:
+    - AI/ML Internships
+    - Full Stack Developer Roles
+    - Remote-first Engineering Teams
 ```
 
 ---
 
-## 📬 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Gmail](https://img.shields.io/badge/raghavendrapandey909%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendrapandey909@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
 
 </div>
 
@@ -273,8 +296,8 @@ Open To:
 
 <div align="center">
 
-*"Engineering is the art of turning constraints into products."*
+*"Ship the model. Ship the backend. Ship the UI. Ship the whole thing."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:2E1065&height=120&section=footer" width="100%"/>
 
 </div>
